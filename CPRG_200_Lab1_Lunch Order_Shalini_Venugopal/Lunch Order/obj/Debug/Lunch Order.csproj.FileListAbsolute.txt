@@ -1,0 +1,20 @@
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\bin\Debug\Lunch Order.exe.config
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\bin\Debug\Lunch Order.exe
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\bin\Debug\Lunch Order.pdb
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\obj\Debug\Lunch Order.csproj.AssemblyReference.cache
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\obj\Debug\Lunch_Order.frmLunch.resources
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\obj\Debug\Lunch_Order.Properties.Resources.resources
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\obj\Debug\Lunch Order.csproj.GenerateResource.cache
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\obj\Debug\Lunch Order.csproj.CoreCompileInputs.cache
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\obj\Debug\Lunch Order.exe
+C:\Users\shali\source\repos\Lunch Order\Lunch Order\obj\Debug\Lunch Order.pdb
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\bin\Debug\Lunch Order.exe.config
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\bin\Debug\Lunch Order.exe
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\bin\Debug\Lunch Order.pdb
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\obj\Debug\Lunch Order.csproj.AssemblyReference.cache
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\obj\Debug\Lunch_Order.frmLunch.resources
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\obj\Debug\Lunch_Order.Properties.Resources.resources
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\obj\Debug\Lunch Order.csproj.GenerateResource.cache
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\obj\Debug\Lunch Order.csproj.CoreCompileInputs.cache
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\obj\Debug\Lunch Order.exe
+C:\Users\shali\source\repos\CPRG_200_Lab1_Lunch Order_Shalini_Venugopal\Lunch Order\obj\Debug\Lunch Order.pdb
